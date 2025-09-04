@@ -1,0 +1,6 @@
+streamlit
+tensorflow>=2.17
+numpy
+pandas
+matplotlib
+joblib  # only if using the optional scaler
