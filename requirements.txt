@@ -4,3 +4,4 @@ numpy
 pandas
 matplotlib
 joblib  # only if using the optional scaler
+scikit-learn
